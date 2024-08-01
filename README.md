@@ -19,5 +19,12 @@ is complete and seems to work well so I decided to go with it.
 [2]:https://obsolescence.wixsite.com/obsolescence/pidp-11
 [3]:https://github.com/funnypolynomial/Kenbakuino
 
+## The plan
+
+- Replicate the case to a reasonable degree
+- Design a PCB based off Mark Wilson's work (he uses Protoboards)
+- Build
+- Enjoy
+
 ----
 [//]: # ( vim: set ts=4 sw=4 et cindent tw=80 ai si syn=markdown ft=markdown: )
