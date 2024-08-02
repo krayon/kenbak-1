@@ -1,5 +1,7 @@
 # Kenbak-1
 
+![kenbak-1](images/real-kenbak-1.jpg)
+
 ## Background
 
 2024-08-01
@@ -18,6 +20,23 @@ is complete and seems to work well so I decided to go with it.
 [1]:https://en.wikipedia.org/wiki/Kenbak-1
 [2]:https://obsolescence.wixsite.com/obsolescence/pidp-11
 [3]:https://github.com/funnypolynomial/Kenbakuino
+
+## Physical parts
+
+### Keys
+
+For the keys, I'll be using standard Cherry MX (or similar) keys. The keycaps
+that look most similar to that on the KENBAK-1 are the MA profile. They
+(apparently) have a height of about 12.38mm:
+
+![ma_profile_keycaps](images/keycaps.jpg)
+
+We need these in both white and black.
+
+### Lamps
+
+Instead of lamps, we'll use standard 5mm LEDs. Frosted yellow and white should
+do the job.
 
 ## The plan
 
